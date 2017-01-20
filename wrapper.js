@@ -20,13 +20,13 @@ javascript:(function(){
         G52310: makeSolution('B', 'postgres'), /*estudar*/
         G49008: makeSolution('D', 'postgres'),
         G46902: makeSolution('C', 'postgres'),
-        G46895: makeSolution('A', 'postgres'),
-        G32267: makeSolution('XX', 'postgres'),
-        G29227: makeSolution('XX', 'postgres'),
-        G29226: makeSolution('XX', 'postgres'),
-        G29222: makeSolution('XX', 'postgres'),
-        G29220: makeSolution('XX', 'postgres'),
-        G29073: makeSolution('XX', 'postgres'),
+        G46895: makeSolution('A', 'postgres'), /* aposto */
+        G32267: makeSolution('E', 'oracle'),  /* ? */
+        G29227: makeSolution('C', 'postgres'),
+        G29226: makeSolution('A', 'postgres'),
+        G29222: makeSolution('B', 'postgres'),
+        G29220: makeSolution('E', 'postgres'), /* Questao exoterica de view*/
+        G29073: makeSolution('C', 'postgres')
                
 };
 
