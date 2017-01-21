@@ -26,7 +26,22 @@ javascript:(function(){
         G29226: makeSolution('A', 'postgres'),
         G29222: makeSolution('B', 'postgres'),
         G29220: makeSolution('E', 'postgres'), /* Questao exoterica de view*/
-        G29073: makeSolution('C', 'postgres')
+        G29073: makeSolution('C', 'postgres'),
+        /* ITIL 2011 v3 */        
+        G131577 : makeSolution('D', 'itil'),
+        G131576 : makeSolution('C', 'itil'), /* */
+        G129763 : makeSolution('B', 'itil'),
+        G129764 : makeSolution('E', 'itil'),
+        G129991 : makeSolution('A', 'itil'), /* */
+        G52797 : makeSolution('A', 'itil'), /* RACI */
+        G52809 : makeSolution('C', 'itil'),
+        G52810 : makeSolution('D', 'itil'),
+        G52831 : makeSolution('C', 'itil'), /* Donos de serviços */
+        G52891 : makeSolution('B', 'itil'),
+        G53146 : makeSolution('B', 'itil'),
+        G63158 : makeSolution('C', 'itil'),
+        
+
                
 };
 
