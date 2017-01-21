@@ -40,7 +40,18 @@ javascript:(function(){
         G52891 : makeSolution('B', 'itil'),
         G53146 : makeSolution('B', 'itil'),
         G63158 : makeSolution('C', 'itil'),
-        
+        /* PMBOK5 */
+        G129990 : makeSolution('D', 'PMBOK5'),
+        G129992 : makeSolution('C', 'PMBOK5'),
+        G63160 : makeSolution('B', 'PMBOK5'), /**/
+        G95909 : makeSolution('A', 'PMBOK5'),
+        G95948 : makeSolution('B', 'PMBOK5'),
+        G96874 : makeSolution('C', 'PMBOK5'),
+        G97589 : makeSolution('B', 'PMBOK5'),
+        G97590 : makeSolution('B', 'PMBOK5'),/**/
+        G99224 : makeSolution('B', 'PMBOK5'), 
+        G84719 : makeSolution('E', 'PMBOK5')
+
 
                
 };
@@ -61,7 +72,7 @@ function replaceClickEvent(question_id){
     if (QuestoesRespondidas[question_id].resposta != 'XX' ){
         $(hash_question_id).off('click');
 
-        $( hash_question_id ).on('click', function(e){
+        $(hash_question_id).on('click', function(e){
             alert("Resposta: " + getSolucion(question_id));
         });
     }
