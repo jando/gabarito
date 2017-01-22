@@ -40,6 +40,19 @@ javascript:(function(){
         G52891 : makeSolution('B', 'itil'),
         G53146 : makeSolution('B', 'itil'),
         G63158 : makeSolution('C', 'itil'),
+        / * Service Strategy */
+        G52810 : makeSolution('D', 'Catálogo de Serviços que faz parte do Portfólio de Serviços.'),
+        G49010 : makeSolution('B', 'Operação de Serviços'),
+        G50529 : makeSolution('A', 'Análise de Impacto no Negócio'), /* Onde estratégia se refere? */
+        G48481 : makeSolution('C', 'da Capacidade'),
+        G48562 : makeSolution('E', 'No Desenho de Serviços foram feitos ajustes para deixar mais claro como'),
+        G48678 : makeSolution('XX', 'banco'),
+        G48679 : makeSolution('XX', 'banco'),
+        G29159 : makeSolution('XX', 'banco'),
+        G29211 : makeSolution('XX', 'banco'),
+        G29337 : makeSolution('XX', 'banco'),
+
+        
         /* PMBOK5 */
         G129990 : makeSolution('D', 'PMBOK5'),
         G129992 : makeSolution('C', 'PMBOK5'),
