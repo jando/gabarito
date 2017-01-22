@@ -46,13 +46,13 @@ javascript:(function(){
         G50529 : makeSolution('A', 'Análise de Impacto no Negócio'), /* Onde estratégia se refere? */
         G48481 : makeSolution('C', 'da Capacidade'),
         G48562 : makeSolution('E', 'No Desenho de Serviços foram feitos ajustes para deixar mais claro como'),
-        G48678 : makeSolution('XX', 'banco'),
-        G48679 : makeSolution('XX', 'banco'),
-        G29159 : makeSolution('XX', 'banco'),
-        G29211 : makeSolution('XX', 'banco'),
-        G29337 : makeSolution('XX', 'banco'),
-
+        G48678 : makeSolution('A', 'definir a perspectiva, a posição, os planos e os padrões que um provedor'),
+        G48679 : makeSolution('D', 'Funil de Serviço e Catálogo de Serviço'), /* */
+        G29159 : makeSolution('D', 'banco'),
+        G29211 : makeSolution('B', 'banco'),
+        G29337 : makeSolution('A', 'banco'),
         
+               
         /* PMBOK5 */
         G129990 : makeSolution('D', 'PMBOK5'),
         G129992 : makeSolution('C', 'PMBOK5'),
