@@ -1,6 +1,20 @@
 javascript:(function(){
 
     var QuestoesRespondidas = {
+        /* Banco: Formas Normais */
+        G129731 : makeSolution('B', 'banco'),
+        G84767 : makeSolution('B', 'banco'),
+        G53121 : makeSolution('D', 'banco'),
+        G52412 : makeSolution('E', 'banco'),
+        G52406 : makeSolution('C', 'banco'),
+        G51720 : makeSolution('XX', 'banco'),
+        G51719 : makeSolution('XX', 'banco'),
+        G51718 : makeSolution('XX', 'banco'),
+        G51717 : makeSolution('XX', 'banco'),
+        G49156 : makeSolution('XX', 'banco'),
+        
+        
+        
         G131593: makeSolution('B', 'banco'),
         G130006: makeSolution('E', 'banco'),
         G130005: makeSolution('B', 'banco'),
