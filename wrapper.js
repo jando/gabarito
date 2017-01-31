@@ -54,7 +54,7 @@ javascript:(function(){
         G52891 : makeSolution('B', 'itil'),
         G53146 : makeSolution('B', 'itil'),
         G63158 : makeSolution('C', 'itil'),
-        / * Service Strategy */
+        /* Service Strategy */
         G52810 : makeSolution('D', 'Catálogo de Serviços que faz parte do Portfólio de Serviços.'),
         G49010 : makeSolution('B', 'Operação de Serviços'),
         G50529 : makeSolution('A', 'Análise de Impacto no Negócio'), /* Onde estratégia se refere? */
